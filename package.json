@@ -1,0 +1,14 @@
+{
+  "name": "react-native-opjs",
+  "version": "1.3.0",
+  "main": "index.min.js",
+  "scripts": {
+    "minify": "node check.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "javascript-obfuscator": "^4.1.1"
+  }
+}
